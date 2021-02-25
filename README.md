@@ -10,12 +10,6 @@ Commands:
 java
 
 
-Author: [MasterDevX](https://github.com/MasterDevX)
-
-Termux java: [Open-jdk-8](https://github.com/MasterDevX/Termux-Java)
-
-Java jdk: [Link](https://jdk.java.net)
-
 ## How to install
 
 Install using Magisk
@@ -91,3 +85,8 @@ See http://www.oracle.com/technetwork/java/javase/documentation/index.html for m
 
 This product is not mine. I just tweaked a few things.
 
+Author: [MasterDevX](https://github.com/MasterDevX)
+
+Termux java: [Open-jdk-8](https://github.com/MasterDevX/Termux-Java)
+
+Java jdk: [Link](https://jdk.java.net)
