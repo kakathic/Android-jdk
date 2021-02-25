@@ -90,3 +90,5 @@ Author: [MasterDevX](https://github.com/MasterDevX)
 Termux java: [Open-jdk-8](https://github.com/MasterDevX/Termux-Java)
 
 Java jdk: [Link](https://jdk.java.net)
+
+Jre 7 Android: [Link](https://github.com/kakathic/Jre-8-Android)
