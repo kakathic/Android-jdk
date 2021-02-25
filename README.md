@@ -1,4 +1,4 @@
-# Java 7 For Android
+# Java For Android
 
 
 Jre 7
