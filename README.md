@@ -47,3 +47,4 @@ This product is not mine. I just tweaked a few things.
 
 Java jdk: [Home](https://jdk.java.net)
 
+Open jdk: [AdoptOpenJDK](https://github.com/AdoptOpenJDK)
