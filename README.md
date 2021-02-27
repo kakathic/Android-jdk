@@ -5,9 +5,7 @@ Open jdk
 
 Root permission is required
 
-Commands:
-
-java
+Commands: java
 
 
 ## How to install
@@ -16,9 +14,11 @@ Install using Magisk
 
 Import the zip file into the Magisk Module
 
+
 ## Download
 
 [Link Jdk](https://github.com/kakathic/Android-jdk/releases)
+
 
 ## How to use the command
 
