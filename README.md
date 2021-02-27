@@ -45,5 +45,5 @@ See http://www.oracle.com/technetwork/java/javase/documentation/index.html for m
 
 This product is not mine. I just tweaked a few things.
 
-Java jdk: [Link](https://jdk.java.net)
+Java jdk: [Home](https://jdk.java.net)
 
