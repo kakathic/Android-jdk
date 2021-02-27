@@ -49,4 +49,4 @@ Java jdk: [Home](https://jdk.java.net)
 
 Open jdk: [AdoptOpenJDK](https://github.com/AdoptOpenJDK)
 
-Emulator to run java: [libc.so.6](https://packages.debian.org/search?searchon=contents&keywords=libc.so.6)   [libz.so.1](https://packages.debian.org/search?searchon=contents&keywords=libz.so.1)
+Emulator to run java: [libc.so.6](https://packages.debian.org/search?searchon=contents&keywords=libc.so.6) | [libz.so.1](https://packages.debian.org/search?searchon=contents&keywords=libz.so.1)
