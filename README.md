@@ -17,7 +17,7 @@ Import the zip file into the Magisk Module
 
 ## Download
 
-[Link Jdk](https://github.com/kakathic/Android-jdk/releases)
+[Link Jdk](https://github.com/kakathic/Tool-JDK/releases)
 
 
 ## How to use the command
