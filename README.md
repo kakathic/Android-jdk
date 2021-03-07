@@ -51,4 +51,4 @@ Open jdk: [AdoptOpenJDK](https://github.com/AdoptOpenJDK)
 
 Emulator to run java: [libc.so.6](https://packages.debian.org/search?searchon=contents&keywords=libc.so.6) | [libz.so.1](https://packages.debian.org/search?searchon=contents&keywords=libz.so.1)
 
-Available emulators: [Lib, lib64](https://github.com/kakathic/Android-jdk/tree/main/lib)
+Available emulators: [Lib, lib64](https://github.com/kakathic/Tool-JDK/tree/main/lib)
