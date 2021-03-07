@@ -1,10 +1,7 @@
 ## Java For Android
 
 
-Temporary maintenance error. Tool
-
-
-Open jdk
+Open JDK
 
 Root permission is required
 
@@ -20,7 +17,7 @@ Import the zip file into the Magisk Module
 
 ## Download
 
-[Link Jdk](https://github.com/kakathic/Tool-JDK/releases)
+[Link JDK](https://github.com/kakathic/Tool-JDK/releases)
 
 
 ## How to use the command
@@ -48,9 +45,9 @@ See http://www.oracle.com/technetwork/java/javase/documentation/index.html for m
 
 This product is not mine. I just tweaked a few things.
 
-Java jdk: [Home](https://jdk.java.net)
+Java JDK: [Home](https://jdk.java.net)
 
-Open jdk: [AdoptOpenJDK](https://github.com/AdoptOpenJDK)
+Open JDK: [AdoptOpenJDK](https://github.com/AdoptOpenJDK)
 
 Emulator to run java: [libc.so.6](https://packages.debian.org/search?searchon=contents&keywords=libc.so.6) | [libz.so.1](https://packages.debian.org/search?searchon=contents&keywords=libz.so.1)
 
