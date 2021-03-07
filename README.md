@@ -32,8 +32,6 @@ It will automatically update to java jdk or jre
 
 It will replace the current version.
 
-How to install you just download the Tool-JDK.zip and use the Magisk module to install the zip it will automatically download the appropriate file for your device.
-
 
 ## How to use the command
 
