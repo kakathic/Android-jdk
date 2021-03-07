@@ -17,7 +17,22 @@ Import the zip file into the Magisk Module
 
 ## Download
 
-[Link JDK](https://github.com/kakathic/Tool-JDK/releases)
+Only support: arm + arm64
+
+[Link JDK](https://github.com/kakathic/Tool-JDK/releases/download/JDK15/Tool-JDK.zip)
+
+
+## NEW
+
+New feature allows upgrading by typing
+
+su -c jdk_update /path/jdk_jre.tar.gz
+
+It will automatically update to java jdk or jre
+
+It will replace the current version.
+
+How to install you just download the Tool-JDK.zip and use the Magisk module to install the zip it will automatically download the appropriate file for your device.
 
 
 ## How to use the command
