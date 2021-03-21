@@ -17,7 +17,7 @@ Import the zip file into the Magisk Module
 
 ## Download
 
-Only support: arm + arm64
+Only support: armhf + arm64
 
 [Link JDK](https://github.com/kakathic/Tool-JDK/releases/download/JDK15/Tool-JDK.zip)
 
