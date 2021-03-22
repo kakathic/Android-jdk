@@ -24,7 +24,13 @@ Only support: arm + arm64 + x86_64
 
 ## NEW
 
-New feature allows upgrading by typing
+New: In order for java to be used at recovery, use the following command
+
+jdk_recovery
+
+Use the jdk_recovery command before using the java command
+
+New: feature allows upgrading by typing
 
 su -c jdk_update /path/jdk_jre.tar.gz
 
