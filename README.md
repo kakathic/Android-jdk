@@ -14,9 +14,7 @@ Root: Install using Magisk
 
 Import the zip file into the Magisk Module
 
-No Root: Termux
-
-Run command
+No Root: Termux Run command
 
 ```
 curl -#L https://github.com/kakathic/Tool-JDK/releases/download/Termux/install.sh -o "$HOME/install.sh" && bash install.sh
@@ -30,7 +28,8 @@ pkg install wget && wget https://github.com/kakathic/Tool-JDK/releases/download/
 
 Root: [Link JDK](https://github.com/kakathic/Tool-JDK/releases/download/JDK16/Tool-JDK.zip)
 
-No Root: Termux
+No Root: Termux Run command
+
 ```
 curl -#L https://github.com/kakathic/Tool-JDK/releases/download/Termux/install.sh -o "$HOME/install.sh" && bash install.sh
 ```
@@ -57,7 +56,7 @@ It will automatically update to java jdk or jre
 
 It will replace the current version.
 
-No Root: Run command
+No Root:
 
 Used: upjdk /path/java_jdk_hostpot_linux.tar.xz
 
