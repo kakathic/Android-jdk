@@ -58,7 +58,7 @@ It will replace the current version.
 
 No Root:
 
-Used: upjdk /path/java_jdk_hostpot_linux.tar.xz
+Used: upjdk java_jdk_hostpot_linux.tar.xz
 
 Used: xu xoa
 
