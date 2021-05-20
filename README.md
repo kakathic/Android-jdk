@@ -76,7 +76,7 @@ For example:
 
 Root: su -c java
 
-Termux: java
+Termux: xu java
 
 Result:
 
