@@ -16,12 +16,10 @@ Import the zip file into the Magisk Module
 
 No Root: Termux Run command
 
+Java 11 can update Used: upjdk jdk.tar.gz
+
 ```
 curl -#L https://github.com/kakathic/Tool-JDK/releases/download/Termux/install.sh -o "$HOME/install.sh" && bash install.sh
-```
-Or
-```
-pkg install wget && wget https://github.com/kakathic/Tool-JDK/releases/download/Termux/install.sh && bash install.sh
 ```
 
 ## Download
