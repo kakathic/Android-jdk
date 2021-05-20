@@ -76,6 +76,12 @@ Root: su -c java
 
 Termux: xu java
 
+Allow use to access device memory
+
+```
+termux-setup-storage
+```
+
 Result:
 
 ```
